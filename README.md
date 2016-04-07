@@ -18,5 +18,5 @@ The starter code for this problem is provided in the SandwichShop.java file. Thi
 
 
 
-
+NOTES FROM USER
 initial code was given from the professor, what was added was semaphore locks/releases
